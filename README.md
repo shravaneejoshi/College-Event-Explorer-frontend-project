@@ -13,3 +13,6 @@ features:
 4) Students can log in or signup
    
 5) Students can register for interested event
+
+link to the website:
+https://shravaneejoshi.github.io/College-Event-Explorer-frontend-project/
